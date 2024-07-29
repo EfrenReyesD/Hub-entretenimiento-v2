@@ -1,0 +1,4 @@
+CREATE TABLE Genres (
+    genre_id INT PRIMARY KEY IDENTITY,
+    name NVARCHAR(50) NOT NULL
+);
