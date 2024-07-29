@@ -1,4 +1,4 @@
-#HUB entretenimiento v2
+# HUB entretenimiento v2
 
 El este repositorio se aloja el avance al sprint 4 del programa , contiene la parte FrondEnd en la carpeta hub-entretenimiento; en la carpeta "server" se encuentra el pequeño backEnd realizado con node js Express, en la carpeta Querys se encuentran los archivos sql para crear las bases de datos en las mismas.
 
