@@ -22,7 +22,8 @@ Dependencias y bibliotecas
 ## Diagrama entidad-Relacion
 A continuacion se anexa el modelado entidad-relacion de la base de datos realizada para el proyecto  
 
-![image](https://github.com/user-attachments/assets/7424bf67-372a-4eab-b506-4720426977ef)
+![image](https://github.com/user-attachments/assets/b8e10867-dc23-4b0c-9fcd-abe0e3cf0dec)
+
 
 
 de igual manera se agregan las direcciones url para visualizar 
